@@ -191,7 +191,8 @@ aside .sidebar a:last-child {
 }
 
 aside .sidebar a.active {
-    background: var(--color-primary);
+    background: var(--color-light);
+    color: var(--color-primary);
     margin-left: 0;
 }
 
